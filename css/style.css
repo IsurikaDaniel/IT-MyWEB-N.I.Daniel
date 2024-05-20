@@ -13,3 +13,13 @@
     width: 700px;
     height: 500px;
    }
+   #num{
+    text-align: right;
+    color: rgb(49, 105, 209);
+    font-size: 100px;
+   }
+   .img5{
+    width: 400px;
+    height: 400px;
+    align-items: end;
+   }

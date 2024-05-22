@@ -47,11 +47,12 @@
    /* align-items: center;*/
     
    }
-   .btn1:hover{
+   .btn1{
     border-radius: 20px;
+    width: 100px;
+    height: 40px;
     color: rgb(22, 79, 204);
+    background-color: transparent;
     border-color:rgb(22, 79, 204);
-    background-color: rgb(38, 134, 224);
-    cursor: pointer;
-    
    }
+   

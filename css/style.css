@@ -42,6 +42,8 @@
    #par{
     text-align: center;
    }
-   .footer{
-    text-align :center;
+   footer div h1 p {
+    text-align: center;
+   /* align-items: center;*/
+    
    }
